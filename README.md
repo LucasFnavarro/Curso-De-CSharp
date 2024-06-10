@@ -5,4 +5,5 @@ Temas abordado no curso:
 - Programação orientada a objetos.
 - Criação de APIs
 - Microserviços
+- Data Driven com ASP.NET
 - SQL Server
